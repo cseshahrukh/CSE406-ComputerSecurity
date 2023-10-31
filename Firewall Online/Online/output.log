@@ -1,0 +1,13 @@
+Creating network "net-10.9.0.0" with the default driver
+Creating network "net-192.168.60.0" with the default driver
+Creating host1-192.168.60.5 ... 
+Creating seed-router        ... 
+Creating hostA-10.9.0.5     ... 
+Creating host2-192.168.60.6 ... 
+Creating host3-192.168.60.7 ... 
+[3A[2KCreating hostA-10.9.0.5     ... [32mdone[0m[3B[2A[2KCreating host2-192.168.60.6 ... [32mdone[0m[2B[5A[2KCreating host1-192.168.60.5 ... [32mdone[0m[5B[1A[2KCreating host3-192.168.60.7 ... [32mdone[0m[1B[4A[2KCreating seed-router        ... [32mdone[0m[4BAttaching to hostA-10.9.0.5, host2-192.168.60.6, host1-192.168.60.5, host3-192.168.60.7, seed-router
+[36mhost1-192.168.60.5 |[0m  * Starting internet superserver inetd       [80G [74G[ OK ]
+[32mhost3-192.168.60.7 |[0m  * Starting internet superserver inetd       [80G [74G[ OK ]
+[33mhost2-192.168.60.6 |[0m  * Starting internet superserver inetd       [80G [74G[ OK ]
+[35mhostA-10.9.0.5 |[0m  * Starting internet superserver inetd       [80G [74G[ OK ]
+[34mseed-router |[0m  * Starting internet superserver inetd       [80G [74G[ OK ]
